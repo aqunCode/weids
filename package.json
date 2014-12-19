@@ -1,5 +1,5 @@
 {
-  "name": "WeiDianShang(Angular-app)",
+  "name": "weids",
   "version": "1.0.0",
   "description": "Admin control page for weidianshang.",
   "directories": {
@@ -31,8 +31,8 @@
     "url": "https://github.com/JobsLong/weids/issues"
   },
   "homepage": "https://github.com/JobsLong/weids",
-  "dependencies": {},
   "devDependencies": {
+    "http-server": "^0.7.4",
     "grunt": "~0.4.0",
     "grunt-recess": "~0.3",
     "grunt-contrib-clean": "~0.4.0",
